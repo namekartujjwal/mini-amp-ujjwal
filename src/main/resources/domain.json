@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "example.com",
+    "tld": "com",
+    "length": 11
+  },
+  {
+    "id": "2",
+    "name": "test.org",
+    "tld": "org",
+    "length": 8
+  },
+  {
+    "id": "3",
+    "name": "ujjwal.dev",
+    "tld": "dev",
+    "length": 10
+  }
+]
